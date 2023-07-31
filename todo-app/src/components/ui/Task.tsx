@@ -7,19 +7,18 @@ import TasksContext from "@/context/TasksContext";
 
 interface TaskProps {
   task: Task;
+  index: number;
 }
 
-const Task: React.FC<TaskProps> = ({ task }) => {
+const Task: React.FC<TaskProps> = ({ task, index }) => {
   const { tasks, setTasks } = useContext(TasksContext);
 
   const handleChange = () => {
-    const tasksCopy = [...tasks];
-    const taskIndex = tasksCopy.findIndex((item) => item.id === task.id);
+    const tasksCopy = tasks.map((task, i) =>
+      i === index ? { ...task, active: !task.active } : task
+    );
 
-    if (taskIndex !== -1) {
-      tasksCopy[taskIndex].active = !tasksCopy[taskIndex].active;
-      setTasks(tasksCopy);
-    }
+    setTasks(tasksCopy);
   };
 
   return (

@@ -22,12 +22,12 @@ const CompletedContent = () => {
   return (
     <div className="w-full">
       <ScrollArea className="h-56 w-full">
-        {completedTasks.map((task) => (
+        {completedTasks.map((task, index) => (
           <div
             key={task.id}
             className="flex items-center justify-between w-full"
           >
-            <Task task={task} />
+            <Task index={index} task={task} />
             <Button onClick={() => deleteTask(task.id)} variant="ghost">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
