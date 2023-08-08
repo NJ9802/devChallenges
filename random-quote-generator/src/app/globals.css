@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground: 0 0% 0%;
+  --background: 0 0% 100%;
+  --gray-1: 0 0% 51%;
+  --gray-2: 0 0% 20%;
+  --light: 0 0% 95%;
+  --accent: 45 86% 77%;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground font-raleway;
+  }
+
+  html,
+  body,
+  :root {
+    height: 100%;
+  }
+}
+
+@layer components {
+  .button {
+    @apply flex items-center gap-2 text-lg leading-[120%] px-4 py-2 rounded-sm transition md:hover:bg-light;
+  }
+}
