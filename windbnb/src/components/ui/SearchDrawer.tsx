@@ -25,7 +25,6 @@ const SearchDrawer: React.FC<SearchDrawerProps> = ({ setCity, setGuests }) => {
   const locations = Array.from(new Set(stays.map((stay) => stay.city)));
 
   const handleClick = () => {
-    console.log("here");
     setCity(citySelected);
     setGuests(adults || childrens ? adults + childrens : 0);
     setIsOpen(false);

@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Random Quote Generator</h1>
+<h1 align="center">Country Quiz</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchrandomquotegenerator.surge.sh">
+    <a href="https://devchcountryquiz.surge.sh">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8">
+    <a href="https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8">
       Challenge
     </a>
   </h3>
@@ -39,7 +39,7 @@
 
 ![screenshot](Screenshot.png)
 
-Hi everyone! I would like to share my solution to the Windbnb challenge. You can check out the live demo at this [Link](https://devchrandomquotegenerator.surge.sh/). In this project, I had the opportunity to practice consuming APIs from the client side and utilizing data frameworks like SWR.
+Hi everyone! I would like to share my solution to the Windbnb challenge. You can check out the live demo at this [Link](https://devchcountryquiz.surge.sh/). In this project, the most difficult challenge was figuring out how to implement the logic to make the quiz random. Once I had the idea, everything flowed smoothly, and I was able to enhance and refactor the code.
 
 ### Built With
 
@@ -54,11 +54,11 @@ Hi everyone! I would like to share my solution to the Windbnb challenge. You can
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8) was to build an application to complete the given user stories.
 
 ## How To Use
 
-<!-- For example: -->
+<!-- Example: -->
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 

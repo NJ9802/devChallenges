@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --foreground: 212 45% 33%;
+    --background: 236 22% 44%;
+
+    --light: 0 0% 95%;
+
+    --darkBlue: 218 52% 24%;
+
+    --yellow: 37 95% 56%;
+    --darkYellow: 37 95% 46%;
+    --yellow-foreground: 0 0% 100%;
+
+    --green: 145 50% 62%;
+
+    --lightBlue: 237 54% 60%;
+
+    --error: 0 71% 71%;
+    --error-foreground: 0 0% 100%;
+
+    --success: 145 43% 56%;
+    --success-foreground: 0 0% 100%;
+  }
+
+  html,
+  body,
+  :root {
+    @apply h-full;
+  }
+
+  body {
+    @apply text-foreground font-poppins bg-[url("/assets/background.png")] bg-cover;
+  }
+}
+
+@layer components {
+  .questionHeader {
+    @apply text-xl md:text-2xl font-bold
+  }
+}
