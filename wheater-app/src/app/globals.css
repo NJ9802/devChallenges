@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 248 35% 8%;
+    --foreground: 240 9% 91%;
+
+    --primary: 234 32% 17%;
+
+    --button: 236 80% 57%;
+
+    --grayText: 243 10% 66%;
+    --gray: 230 5% 45%;
+    --lightGray: 245 11% 57%;
+    --gray-2: 231 9% 42%;
+
+    --accent: 53 100% 70%;
+  }
+
+  html,
+  body,
+  :root {
+    @apply h-full bg-background text-foreground font-raleway;
+  }
+}
+
+@layer components {
+  .centeredContainer {
+    @apply flex justify-center;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 1, "wght" 400, "GRAD" 0, "opsz" 48;
+}

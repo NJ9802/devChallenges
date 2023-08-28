@@ -39,7 +39,7 @@
 
 ![screenshot](screenshot.png)
 
-Hi everyone! I would like to share my solution to the Windbnb challenge. You can check out the live demo at this [Link](https://devchtodoapp.surge.sh/). In this project, I had the opportunity to experience the challenges of using Server Side Rendering (SSR) when the project utilizes Web Apis like localStorage. Through this experience, I gained valuable knowledge and skills as a Web Developer.
+Hi everyone! I would like to share my solution to the Todo App challenge. You can check out the live demo at this [Link](https://devchtodoapp.surge.sh/). In this project, I had the opportunity to experience the challenges of using Server Side Rendering (SSR) when the project utilizes Web Apis like localStorage. Through this experience, I gained valuable knowledge and skills as a Web Developer.
 
 ### Built With
 

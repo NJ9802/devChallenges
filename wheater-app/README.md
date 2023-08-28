@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Country Quiz</h1>
+<h1 align="center">{Your project name}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchcountryquiz.surge.sh">
+    <a href="https://devchweatherapp.surge.sh">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8">
+    <a href="https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv">
       Challenge
     </a>
   </h3>
@@ -37,9 +37,9 @@
 
 ## Overview
 
-![screenshot](Screenshot.png)
+![screenshot](Screenshot.jpeg)
 
-Hi everyone! I would like to share my solution to the Country Quiz challenge. You can check out the live demo at this [Link](https://devchcountryquiz.surge.sh/). In this project, the most difficult challenge was figuring out how to implement the logic to make the quiz random. Once I had the idea, everything flowed smoothly, and I was able to enhance and refactor the code.
+Hi everyone! I would like to share my solution to the Weather App challenge. You can check out the live demo at this [Link](https://devchcountryquiz.surge.sh/).
 
 ### Built With
 
@@ -54,7 +54,7 @@ Hi everyone! I would like to share my solution to the Country Quiz challenge. Yo
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv) was to build an application to complete the given user stories.
 
 ## How To Use
 

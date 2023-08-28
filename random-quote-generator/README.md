@@ -39,7 +39,7 @@
 
 ![screenshot](Screenshot.png)
 
-Hi everyone! I would like to share my solution to the Windbnb challenge. You can check out the live demo at this [Link](https://devchrandomquotegenerator.surge.sh/). In this project, I had the opportunity to practice consuming APIs from the client side and utilizing data frameworks like SWR.
+Hi everyone! I would like to share my solution to the Random Quote Generator challenge. You can check out the live demo at this [Link](https://devchrandomquotegenerator.surge.sh/). In this project, I had the opportunity to practice consuming APIs from the client side and utilizing data frameworks like SWR.
 
 ### Built With
 
