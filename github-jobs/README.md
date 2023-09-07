@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Weather App</h1>
+<h1 align="center">Github Jobs</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchweatherapp.surge.sh">
+    <a href="https://githubjobs.vercel.app">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv">
+    <a href="https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps">
       Challenge
     </a>
   </h3>
@@ -39,7 +39,7 @@
 
 ![screenshot](Screenshot.jpeg)
 
-Hi everyone! I would like to share my solution to the Weather App challenge. You can check out the live demo at this [Link](https://devchcountryquiz.surge.sh/).
+Hi everyone! I would like to share my solution to the Github Jobs challenge. You can check out the live demo at this [Link](https://devchcountryquiz.surge.sh/). In this project I learned how to work with React Query from Tanstack. I also learned how to pass information through UrlSearchParams Web API and how to work with the new Route Handlers from NextJS App Router. I had to think of a way to work with an API provider that offers very few requests for the free plan. All of these challenges made me grow as a Web Developer and improve my development skills.
 
 ### Built With
 
@@ -54,7 +54,7 @@ Hi everyone! I would like to share my solution to the Weather App challenge. You
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the given user stories.
 
 ## How To Use
 
