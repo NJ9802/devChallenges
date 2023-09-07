@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://githubjobs.vercel.app">
+    <a href="https://devchgithubjobs.vercel.app">
       Demo
     </a>
     <span> | </span>
